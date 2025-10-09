@@ -1,5 +1,4 @@
 {
-  "homepage": "https://venetialiu.github.io/surprise-bag",
   "name": "client",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +15,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",No, from Las Vegas navigation system for the archives of my projects and off of objects on with the different properties like a title name, tag stuff like that which is each a project that program automatically plays and what the it
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
